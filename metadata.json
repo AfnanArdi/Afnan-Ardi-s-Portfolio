@@ -1,0 +1,6 @@
+{
+  "name": "VibeLog — Minimalist Social Publishing",
+  "description": "A minimalist social publishing platform bridging Instagram visual storytelling with Threads micro-blogging, featuring a dual-mode visitor feed, creator studio, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
